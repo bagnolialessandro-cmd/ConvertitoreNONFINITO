@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+.titolo{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 70px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-style: italic;
+}    
+
+.Euro{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-style: italic;
+}
+.bandiera{
+    width: 100px;
+}
